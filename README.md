@@ -1,1 +1,1 @@
-# smartchi-chat.
+# smartchi-chat
